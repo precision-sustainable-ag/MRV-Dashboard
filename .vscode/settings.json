@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+
+  "[javascript]": { "editor.defaultFormatter": "biomejs.biome" },
+  "[javascriptreact]": { "editor.defaultFormatter": "biomejs.biome" },
+  "r.alwaysUseActiveTerminal": false,
+  "r.sessionWatcher": true,
+  "r.rpath.linux": "/home/ubuntu/bin/R",
+  "r.linting.enabled": true,
+  "r.linting.lintrConfig": "/MRV-Pipeline/.lintr",
+  "r.formatting.provider": "styler"
+}
